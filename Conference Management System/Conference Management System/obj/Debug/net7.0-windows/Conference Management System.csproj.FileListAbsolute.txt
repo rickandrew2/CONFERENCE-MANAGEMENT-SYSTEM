@@ -1,0 +1,118 @@
+C:\Users\Rick\Desktop\VB.NET\Conference Management System-20231115T120337Z-001\Conference Management System\Conference Management System\obj\Debug\net7.0-windows\Conference Management System.csproj.AssemblyReference.cache
+C:\Users\Rick\Desktop\VB.NET\Conference Management System-20231115T120337Z-001\Conference Management System\Conference Management System\obj\Debug\net7.0-windows\Conference_Management_System.Admin.resources
+C:\Users\Rick\Desktop\VB.NET\Conference Management System-20231115T120337Z-001\Conference Management System\Conference Management System\obj\Debug\net7.0-windows\Conference_Management_System.Attendees.resources
+C:\Users\Rick\Desktop\VB.NET\Conference Management System-20231115T120337Z-001\Conference Management System\Conference Management System\obj\Debug\net7.0-windows\Conference_Management_System.Home.resources
+C:\Users\Rick\Desktop\VB.NET\Conference Management System-20231115T120337Z-001\Conference Management System\Conference Management System\obj\Debug\net7.0-windows\Conference_Management_System.login.resources
+C:\Users\Rick\Desktop\VB.NET\Conference Management System-20231115T120337Z-001\Conference Management System\Conference Management System\obj\Debug\net7.0-windows\Conference_Management_System.Properties.Resources.resources
+C:\Users\Rick\Desktop\VB.NET\Conference Management System-20231115T120337Z-001\Conference Management System\Conference Management System\obj\Debug\net7.0-windows\Conference_Management_System.Register.resources
+C:\Users\Rick\Desktop\VB.NET\Conference Management System-20231115T120337Z-001\Conference Management System\Conference Management System\obj\Debug\net7.0-windows\Conference_Management_System.Session.resources
+C:\Users\Rick\Desktop\VB.NET\Conference Management System-20231115T120337Z-001\Conference Management System\Conference Management System\obj\Debug\net7.0-windows\Conference_Management_System.Speakers.resources
+C:\Users\Rick\Desktop\VB.NET\Conference Management System-20231115T120337Z-001\Conference Management System\Conference Management System\obj\Debug\net7.0-windows\Conference_Management_System.Sponsor.resources
+C:\Users\Rick\Desktop\VB.NET\Conference Management System-20231115T120337Z-001\Conference Management System\Conference Management System\obj\Debug\net7.0-windows\Conference_Management_System.Venues.resources
+C:\Users\Rick\Desktop\VB.NET\Conference Management System-20231115T120337Z-001\Conference Management System\Conference Management System\obj\Debug\net7.0-windows\Conference_Management_System.Welcome.resources
+C:\Users\Rick\Desktop\VB.NET\Conference Management System-20231115T120337Z-001\Conference Management System\Conference Management System\obj\Debug\net7.0-windows\Conference Management System.csproj.GenerateResource.cache
+C:\Users\Rick\Desktop\VB.NET\Conference Management System-20231115T120337Z-001\Conference Management System\Conference Management System\obj\Debug\net7.0-windows\Conference Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rick\Desktop\VB.NET\Conference Management System-20231115T120337Z-001\Conference Management System\Conference Management System\obj\Debug\net7.0-windows\Conference Management System.AssemblyInfoInputs.cache
+C:\Users\Rick\Desktop\VB.NET\Conference Management System-20231115T120337Z-001\Conference Management System\Conference Management System\obj\Debug\net7.0-windows\Conference Management System.AssemblyInfo.cs
+C:\Users\Rick\Desktop\VB.NET\Conference Management System-20231115T120337Z-001\Conference Management System\Conference Management System\obj\Debug\net7.0-windows\Conference Management System.csproj.CoreCompileInputs.cache
+C:\Users\Rick\Desktop\VB.NET\Conference Management System-20231115T120337Z-001\Conference Management System\Conference Management System\bin\Debug\net7.0-windows\Conference Management System.exe
+C:\Users\Rick\Desktop\VB.NET\Conference Management System-20231115T120337Z-001\Conference Management System\Conference Management System\bin\Debug\net7.0-windows\Speakers.cs
+C:\Users\Rick\Desktop\VB.NET\Conference Management System-20231115T120337Z-001\Conference Management System\Conference Management System\bin\Debug\net7.0-windows\Conference Management System.deps.json
+C:\Users\Rick\Desktop\VB.NET\Conference Management System-20231115T120337Z-001\Conference Management System\Conference Management System\bin\Debug\net7.0-windows\Conference Management System.runtimeconfig.json
+C:\Users\Rick\Desktop\VB.NET\Conference Management System-20231115T120337Z-001\Conference Management System\Conference Management System\bin\Debug\net7.0-windows\Conference Management System.dll
+C:\Users\Rick\Desktop\VB.NET\Conference Management System-20231115T120337Z-001\Conference Management System\Conference Management System\bin\Debug\net7.0-windows\Conference Management System.pdb
+C:\Users\Rick\Desktop\VB.NET\Conference Management System-20231115T120337Z-001\Conference Management System\Conference Management System\bin\Debug\net7.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Rick\Desktop\VB.NET\Conference Management System-20231115T120337Z-001\Conference Management System\Conference Management System\bin\Debug\net7.0-windows\Google.Protobuf.dll
+C:\Users\Rick\Desktop\VB.NET\Conference Management System-20231115T120337Z-001\Conference Management System\Conference Management System\bin\Debug\net7.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Rick\Desktop\VB.NET\Conference Management System-20231115T120337Z-001\Conference Management System\Conference Management System\bin\Debug\net7.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Rick\Desktop\VB.NET\Conference Management System-20231115T120337Z-001\Conference Management System\Conference Management System\bin\Debug\net7.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Rick\Desktop\VB.NET\Conference Management System-20231115T120337Z-001\Conference Management System\Conference Management System\bin\Debug\net7.0-windows\MySql.Data.dll
+C:\Users\Rick\Desktop\VB.NET\Conference Management System-20231115T120337Z-001\Conference Management System\Conference Management System\bin\Debug\net7.0-windows\NuGet.Frameworks.dll
+C:\Users\Rick\Desktop\VB.NET\Conference Management System-20231115T120337Z-001\Conference Management System\Conference Management System\bin\Debug\net7.0-windows\System.IO.Pipelines.dll
+C:\Users\Rick\Desktop\VB.NET\Conference Management System-20231115T120337Z-001\Conference Management System\Conference Management System\bin\Debug\net7.0-windows\ZstdSharp.dll
+C:\Users\Rick\Desktop\VB.NET\Conference Management System-20231115T120337Z-001\Conference Management System\Conference Management System\bin\Debug\net7.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Rick\Desktop\VB.NET\Conference Management System-20231115T120337Z-001\Conference Management System\Conference Management System\bin\Debug\net7.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Rick\Desktop\VB.NET\Conference Management System-20231115T120337Z-001\Conference Management System\Conference Management System\bin\Debug\net7.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Rick\Desktop\VB.NET\Conference Management System-20231115T120337Z-001\Conference Management System\Conference Management System\bin\Debug\net7.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Rick\Desktop\VB.NET\Conference Management System-20231115T120337Z-001\Conference Management System\Conference Management System\bin\Debug\net7.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Rick\Desktop\VB.NET\Conference Management System-20231115T120337Z-001\Conference Management System\Conference Management System\obj\Debug\net7.0-windows\Conference Management System.csproj.CopyComplete
+C:\Users\Rick\Desktop\VB.NET\Conference Management System-20231115T120337Z-001\Conference Management System\Conference Management System\obj\Debug\net7.0-windows\Conference Management System.dll
+C:\Users\Rick\Desktop\VB.NET\Conference Management System-20231115T120337Z-001\Conference Management System\Conference Management System\obj\Debug\net7.0-windows\refint\Conference Management System.dll
+C:\Users\Rick\Desktop\VB.NET\Conference Management System-20231115T120337Z-001\Conference Management System\Conference Management System\obj\Debug\net7.0-windows\Conference Management System.pdb
+C:\Users\Rick\Desktop\VB.NET\Conference Management System-20231115T120337Z-001\Conference Management System\Conference Management System\obj\Debug\net7.0-windows\Conference Management System.genruntimeconfig.cache
+C:\Users\Rick\Desktop\VB.NET\Conference Management System-20231115T120337Z-001\Conference Management System\Conference Management System\obj\Debug\net7.0-windows\ref\Conference Management System.dll
+C:\Users\Rick\Desktop\VB.NET\Conference Management System-20231115T120337Z-001\Conference Management System\Conference Management System\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\Rick\Desktop\VB.NET\Conference Management System-20231115T120337Z-001\Conference Management System\Conference Management System\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Rick\Desktop\VB.NET\Conference Management System-20231115T120337Z-001\Conference Management System\Conference Management System\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Rick\Desktop\VB.NET\Conference Management System-20231115T120337Z-001\Conference Management System\Conference Management System\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Rick\Desktop\VB.NET\Conference Management System-20231115T120337Z-001\Conference Management System\Conference Management System\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Rick\Desktop\VB.NET\Conference Management System-20231115T120337Z-001\Conference Management System\Conference Management System\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Rick\Desktop\VB.NET\Conference Management System-20231115T120337Z-001\Conference Management System\Conference Management System\bin\Debug\net7.0-windows\NAudio.dll
+C:\Users\Rick\Desktop\VB.NET\Conference Management System-20231115T120337Z-001\Conference Management System\Conference Management System\bin\Debug\net7.0-windows\NAudio.Asio.dll
+C:\Users\Rick\Desktop\VB.NET\Conference Management System-20231115T120337Z-001\Conference Management System\Conference Management System\bin\Debug\net7.0-windows\NAudio.Core.dll
+C:\Users\Rick\Desktop\VB.NET\Conference Management System-20231115T120337Z-001\Conference Management System\Conference Management System\bin\Debug\net7.0-windows\NAudio.Midi.dll
+C:\Users\Rick\Desktop\VB.NET\Conference Management System-20231115T120337Z-001\Conference Management System\Conference Management System\bin\Debug\net7.0-windows\NAudio.Wasapi.dll
+C:\Users\Rick\Desktop\VB.NET\Conference Management System-20231115T120337Z-001\Conference Management System\Conference Management System\bin\Debug\net7.0-windows\NAudio.WinForms.dll
+C:\Users\Rick\Desktop\VB.NET\Conference Management System-20231115T120337Z-001\Conference Management System\Conference Management System\bin\Debug\net7.0-windows\NAudio.WinMM.dll
+C:\Users\Rick\Desktop\VB.NET\Conference Management System-20231115T120337Z-001\Conference Management System\Conference Management System\bin\Debug\net7.0-windows\libmp3lame.32.dll
+C:\Users\Rick\Desktop\VB.NET\Conference Management System-20231115T120337Z-001\Conference Management System\Conference Management System\bin\Debug\net7.0-windows\libmp3lame.64.dll
+C:\Users\Rick\Desktop\VB.NET\Conference Management System-20231115T120337Z-001\Conference Management System\Conference Management System\bin\Debug\net7.0-windows\NAudio.Lame.dll
+C:\Users\Rick\Desktop\Conference Management System\Conference Management System\Conference Management System\bin\Debug\net7.0-windows\libmp3lame.32.dll
+C:\Users\Rick\Desktop\Conference Management System\Conference Management System\Conference Management System\bin\Debug\net7.0-windows\libmp3lame.64.dll
+C:\Users\Rick\Desktop\Conference Management System\Conference Management System\Conference Management System\bin\Debug\net7.0-windows\Conference Management System.exe
+C:\Users\Rick\Desktop\Conference Management System\Conference Management System\Conference Management System\bin\Debug\net7.0-windows\Speakers.cs
+C:\Users\Rick\Desktop\Conference Management System\Conference Management System\Conference Management System\bin\Debug\net7.0-windows\Conference Management System.deps.json
+C:\Users\Rick\Desktop\Conference Management System\Conference Management System\Conference Management System\bin\Debug\net7.0-windows\Conference Management System.runtimeconfig.json
+C:\Users\Rick\Desktop\Conference Management System\Conference Management System\Conference Management System\bin\Debug\net7.0-windows\Conference Management System.dll
+C:\Users\Rick\Desktop\Conference Management System\Conference Management System\Conference Management System\bin\Debug\net7.0-windows\Conference Management System.pdb
+C:\Users\Rick\Desktop\Conference Management System\Conference Management System\Conference Management System\bin\Debug\net7.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Rick\Desktop\Conference Management System\Conference Management System\Conference Management System\bin\Debug\net7.0-windows\Google.Protobuf.dll
+C:\Users\Rick\Desktop\Conference Management System\Conference Management System\Conference Management System\bin\Debug\net7.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Rick\Desktop\Conference Management System\Conference Management System\Conference Management System\bin\Debug\net7.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Rick\Desktop\Conference Management System\Conference Management System\Conference Management System\bin\Debug\net7.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Rick\Desktop\Conference Management System\Conference Management System\Conference Management System\bin\Debug\net7.0-windows\MySql.Data.dll
+C:\Users\Rick\Desktop\Conference Management System\Conference Management System\Conference Management System\bin\Debug\net7.0-windows\NAudio.dll
+C:\Users\Rick\Desktop\Conference Management System\Conference Management System\Conference Management System\bin\Debug\net7.0-windows\NAudio.Asio.dll
+C:\Users\Rick\Desktop\Conference Management System\Conference Management System\Conference Management System\bin\Debug\net7.0-windows\NAudio.Core.dll
+C:\Users\Rick\Desktop\Conference Management System\Conference Management System\Conference Management System\bin\Debug\net7.0-windows\NAudio.Lame.dll
+C:\Users\Rick\Desktop\Conference Management System\Conference Management System\Conference Management System\bin\Debug\net7.0-windows\NAudio.Midi.dll
+C:\Users\Rick\Desktop\Conference Management System\Conference Management System\Conference Management System\bin\Debug\net7.0-windows\NAudio.Wasapi.dll
+C:\Users\Rick\Desktop\Conference Management System\Conference Management System\Conference Management System\bin\Debug\net7.0-windows\NAudio.WinForms.dll
+C:\Users\Rick\Desktop\Conference Management System\Conference Management System\Conference Management System\bin\Debug\net7.0-windows\NAudio.WinMM.dll
+C:\Users\Rick\Desktop\Conference Management System\Conference Management System\Conference Management System\bin\Debug\net7.0-windows\NuGet.Frameworks.dll
+C:\Users\Rick\Desktop\Conference Management System\Conference Management System\Conference Management System\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\Rick\Desktop\Conference Management System\Conference Management System\Conference Management System\bin\Debug\net7.0-windows\System.IO.Pipelines.dll
+C:\Users\Rick\Desktop\Conference Management System\Conference Management System\Conference Management System\bin\Debug\net7.0-windows\ZstdSharp.dll
+C:\Users\Rick\Desktop\Conference Management System\Conference Management System\Conference Management System\bin\Debug\net7.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Rick\Desktop\Conference Management System\Conference Management System\Conference Management System\bin\Debug\net7.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Rick\Desktop\Conference Management System\Conference Management System\Conference Management System\bin\Debug\net7.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Rick\Desktop\Conference Management System\Conference Management System\Conference Management System\bin\Debug\net7.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Rick\Desktop\Conference Management System\Conference Management System\Conference Management System\bin\Debug\net7.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Rick\Desktop\Conference Management System\Conference Management System\Conference Management System\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Rick\Desktop\Conference Management System\Conference Management System\Conference Management System\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Rick\Desktop\Conference Management System\Conference Management System\Conference Management System\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Rick\Desktop\Conference Management System\Conference Management System\Conference Management System\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Rick\Desktop\Conference Management System\Conference Management System\Conference Management System\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Rick\Desktop\Conference Management System\Conference Management System\Conference Management System\obj\Debug\net7.0-windows\Conference Management System.csproj.AssemblyReference.cache
+C:\Users\Rick\Desktop\Conference Management System\Conference Management System\Conference Management System\obj\Debug\net7.0-windows\Conference_Management_System.Admin.resources
+C:\Users\Rick\Desktop\Conference Management System\Conference Management System\Conference Management System\obj\Debug\net7.0-windows\Conference_Management_System.Attendees.resources
+C:\Users\Rick\Desktop\Conference Management System\Conference Management System\Conference Management System\obj\Debug\net7.0-windows\Conference_Management_System.Home.resources
+C:\Users\Rick\Desktop\Conference Management System\Conference Management System\Conference Management System\obj\Debug\net7.0-windows\Conference_Management_System.login.resources
+C:\Users\Rick\Desktop\Conference Management System\Conference Management System\Conference Management System\obj\Debug\net7.0-windows\Conference_Management_System.Properties.Resources.resources
+C:\Users\Rick\Desktop\Conference Management System\Conference Management System\Conference Management System\obj\Debug\net7.0-windows\Conference_Management_System.Register.resources
+C:\Users\Rick\Desktop\Conference Management System\Conference Management System\Conference Management System\obj\Debug\net7.0-windows\Conference_Management_System.Session.resources
+C:\Users\Rick\Desktop\Conference Management System\Conference Management System\Conference Management System\obj\Debug\net7.0-windows\Conference_Management_System.Speakers.resources
+C:\Users\Rick\Desktop\Conference Management System\Conference Management System\Conference Management System\obj\Debug\net7.0-windows\Conference_Management_System.Sponsor.resources
+C:\Users\Rick\Desktop\Conference Management System\Conference Management System\Conference Management System\obj\Debug\net7.0-windows\Conference_Management_System.Venues.resources
+C:\Users\Rick\Desktop\Conference Management System\Conference Management System\Conference Management System\obj\Debug\net7.0-windows\Conference_Management_System.Welcome.resources
+C:\Users\Rick\Desktop\Conference Management System\Conference Management System\Conference Management System\obj\Debug\net7.0-windows\Conference Management System.csproj.GenerateResource.cache
+C:\Users\Rick\Desktop\Conference Management System\Conference Management System\Conference Management System\obj\Debug\net7.0-windows\Conference Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rick\Desktop\Conference Management System\Conference Management System\Conference Management System\obj\Debug\net7.0-windows\Conference Management System.AssemblyInfoInputs.cache
+C:\Users\Rick\Desktop\Conference Management System\Conference Management System\Conference Management System\obj\Debug\net7.0-windows\Conference Management System.AssemblyInfo.cs
+C:\Users\Rick\Desktop\Conference Management System\Conference Management System\Conference Management System\obj\Debug\net7.0-windows\Conference Management System.csproj.CoreCompileInputs.cache
+C:\Users\Rick\Desktop\Conference Management System\Conference Management System\Conference Management System\obj\Debug\net7.0-windows\Conference Management System.csproj.CopyComplete
+C:\Users\Rick\Desktop\Conference Management System\Conference Management System\Conference Management System\obj\Debug\net7.0-windows\Conference Management System.dll
+C:\Users\Rick\Desktop\Conference Management System\Conference Management System\Conference Management System\obj\Debug\net7.0-windows\refint\Conference Management System.dll
+C:\Users\Rick\Desktop\Conference Management System\Conference Management System\Conference Management System\obj\Debug\net7.0-windows\Conference Management System.pdb
+C:\Users\Rick\Desktop\Conference Management System\Conference Management System\Conference Management System\obj\Debug\net7.0-windows\Conference Management System.genruntimeconfig.cache
+C:\Users\Rick\Desktop\Conference Management System\Conference Management System\Conference Management System\obj\Debug\net7.0-windows\ref\Conference Management System.dll
